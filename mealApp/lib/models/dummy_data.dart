@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'category.dart';
+import './category.dart';
 
 const DUMMY_CATEGORIES = const [
   Category(
